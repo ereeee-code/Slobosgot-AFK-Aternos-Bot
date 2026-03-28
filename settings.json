@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "MrRichisNetwork.aternos.me",
-    "port":41163 ,
+    "port":41163,
     "version": "",
     "try-creative": false
   },
