@@ -1,7 +1,7 @@
 {
   "name": "bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "derbot",
     "password": "",
     "type": "offline"
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to woosel!",
-        "bot!"
+        "Subscribe to woosel_31!",
+        "!"
       ]
     },
     "chat-log": true,
